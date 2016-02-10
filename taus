@@ -1,0 +1,24 @@
+[33mcommit 4e78ea37c906cfde2970ef4182047896764f07f6[m
+Merge: c60287f abd146e
+Author: = <=>
+Date:   Wed Feb 10 16:11:27 2016 +0530
+
+    resolved the conflict
+
+[33mcommit c60287f0f59578e2764cf3f3c96fac8e83757ac8[m
+Author: = <=>
+Date:   Wed Feb 10 16:03:12 2016 +0530
+
+    commit master
+
+[33mcommit abd146ee2293ebd55159e0c1d55c665267745c29[m
+Author: = <=>
+Date:   Wed Feb 10 16:00:53 2016 +0530
+
+    branch commit
+
+[33mcommit b3dfbf052814073375f47e1b309de49229a3392d[m
+Author: = <=>
+Date:   Wed Feb 10 14:42:01 2016 +0530
+
+    Initial Commit
